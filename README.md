@@ -1,51 +1,77 @@
-# 👋 Hi, I'm Siddhesh Uttarwar  
-
-🎓 Master’s in Electrical & Computer Engineering @ UCSB (Electronics & Photonics)  
-💻 Developer | VLSI Enthusiast | Open Source Contributor  
-🌱 Exploring RF/Microwave Circuits, AI in Photonics & Full-Stack Development  
+<h1 align="center">Hi 👋, I'm Siddhesh Parag Uttawar</h1>
+<h3 align="center">ECE @ UCSB | VLSI Design & Low-Power Systems | Full-Stack Developer</h3>
 
 ---
 
-## 🚀 Tech Stack  
+## 🚀 About Me  
 
-**Languages:** C | C++ | Python | Verilog HDL | Embedded C | MATLAB | JavaScript/TypeScript  
-**Frameworks & Tools:** Spring Boot | React.js | Angular | Groovy | OUAF | Docker  
-**Databases:** MongoDB | Oracle | SQL  
-**Hardware & Design:** FPGA | VLSI (ASIC/RTL) | Microcontrollers (8051, AVR, ARM)  
-**Other:** Git | Linux | MATLAB | LabVIEW | Proteus  
+- 🎓 Master’s student in **Electrical & Computer Engineering (Electronics & Photonics) @ UCSB**  
+- 🔬 Research Interests: **VLSI Design, Low Power Systems, SoC, Intelligent Embedded Systems**  
+- 💻 Experience at **Oracle** as Consulting Developer & Project Intern  
+- 🏆 Published **Patent + IEEE Conference Papers** in VLSI and Reversible Logic  
+- 🌱 Passionate about merging **hardware + AI** to design efficient next-gen systems  
 
 ---
 
-## 🔬 Projects & Research  
+## 🛠 Tech Stack  
 
-- ⚡ **High-Speed Double Precision Floating Point Vedic Multiplier** – Optimized for speed, area, and power.  
-- 📡 **Design of High-Speed 8-bit Multiplier (Brent Kung Adder)** – Performance-focused VLSI design.  
-- 🪪 **RFID Smart ID Card** – RFID + Python system for student management.  
-- 🌍 **JP Morgan Chase Code for Good** – ReactJS + Django solution for citizen participation in government policies.  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Verilog-8A2BE2?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white"/>
+  <br/>
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <br/>
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
 
-📌 Check out my pinned projects below ⬇️  
+---
+
+## 📌 Featured Projects  
+
+- ⚡ **High Speed Double Precision Floating Point Vedic Multiplier** – Optimized for delay, space, and power (Verilog, Vivado)  
+- 📡 **Design of High-Speed 8-bit Multiplier (Brent Kung Adder)** – Vedic Mathematics for faster DSP multipliers  
+- 🪪 **RFID Smart ID Card** – RFID + Python system for identification, attendance, payments & notifications  
+- 🌍 **JP Morgan Chase Code for Good** – ReactJS + Django solution gamifying citizen participation in governance  
+
+🔗 *Check my pinned repositories for more!*  
 
 ---
 
 ## 🏆 Achievements  
 
-- 🥈 **GYSC Innovation Award** – RFID email project  
-- 🎓 **IISc Bangalore Research Internship** – RESPIN project (Speech Recognition for Agriculture/Finance)  
-- 🏅 **Best Dealership Award (2008, 2010)** – [For father’s business, keep or remove depending on scope]  
+- 🥈 **GYSC Innovation Award (Silver)** – "Sending Email using RFID and Python"  
+- 🎓 **IISc Bangalore Research Internship** – RESPIN project (Speech Recognition for Agriculture & Finance)  
+- 📄 **Patent:** Efficient Prime Bit Vedic Multiplier for Double Precision Floating-Point Numbers  
+- 📚 **IEEE Publications:**  
+  - Universal Shift Registers (ICESC 2024)  
+  - 8-bit Vedic Multiplier (ICCNT 2022)  
+  - Comparator Tree Design (IACIS 2024)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiddheshUttarwar&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiddheshUttarwar&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top languages" height="180"/>
+</p>
 
 ---
 
 ## 🌐 Connect with Me  
 
-🔗 [LinkedIn](https://linkedin.com/in/your-link)  
-📧 siddhesh@email.com  
-🌍 [Portfolio / Website](https://your-portfolio-link.com)  
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:uttarwarsiddhesh@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>

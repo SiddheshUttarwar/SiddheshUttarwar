@@ -1,8 +1,5 @@
 <h1 align="center">⚡ Hi, I'm Siddhesh Parag Uttawar ⚡</h1>
 <h3 align="center">ECE Engineer | VLSI Designer | Researcher | Developer</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="250"/>
-</p>
 
 ---
 
